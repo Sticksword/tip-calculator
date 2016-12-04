@@ -20,5 +20,6 @@ h1, h2, strong {
 }
 
 .container {
-  background-color: #d3d3d3
+  background-color: #d3d3d3;
+  width: 50%;
 }

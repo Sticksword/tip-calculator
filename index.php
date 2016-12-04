@@ -8,7 +8,7 @@
       <h2>Tip Calculator</h2>
       <form method="post" id="calculateTipForm">
         <label for="bill-subtotal">Bill subtotal: $</label>
-        <input type="text" id="bill-subtotal">
+        <input type="text" id="bill-subtotal" placeholder="100">
         <br>
 
         <?php
