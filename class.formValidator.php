@@ -12,6 +12,10 @@ class formValidator {
   * Validation functions
   */
 
+  public function foo($arg_1) {
+    return $arg_1;
+  }
+
   public function __destruct() {
     // unset($this->stuff);
   }
