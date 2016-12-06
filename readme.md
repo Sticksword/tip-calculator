@@ -4,7 +4,7 @@ This is a tip calculator powered by PHP and JQuery.
 
 Submitted by: Michael Chen
 
-Time spent: 5~ hours spent in total
+Time spent: 6~ hours spent in total, including some reading on form validation
 
 ## User Stories
 
