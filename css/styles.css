@@ -21,5 +21,24 @@ h1, h2, strong {
 
 .container {
   background-color: #d3d3d3;
+  margin: auto;
+  text-align: center;
   width: 50%;
+}
+
+button {
+	background-color:#44c767;
+	border:1px solid #18ab29;
+  border-radius: 25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+button:hover {
+	background-color:#5cbf2a;
 }

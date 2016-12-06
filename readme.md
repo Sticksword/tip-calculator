@@ -9,20 +9,22 @@ Time spent: 5~ hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [ x ] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
-* [ x ] Tip percentage choices use a PHP loop to output three radio buttons.
-* [  ] PHP code sets reasonable default values for the form.
-* [ ] PHP code confirms the presence and correct format of submitted values.
-* [ ] Page indicates any form errors which need to be fixed.
-* [ ] Submitted form values are retained when errors or results are shown.
+* [x] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
+* [x] Tip percentage choices use a PHP loop to output three radio buttons.
+* [x] PHP code sets reasonable default values for the form.
+* [x] PHP code confirms the presence and correct format of submitted values.
+* [x] Page indicates any form errors which need to be fixed.
+* [x] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are implemented:
-* [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+* [x] Add support for custom tip percentage
+* [x] Add support for splitting the tip and total
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [x] Documented and thought through code (see comments)
+* [x] AJAX & custom functions
+* [x] Mildly enhanced error messages
 
 ## Video Walkthrough
 
